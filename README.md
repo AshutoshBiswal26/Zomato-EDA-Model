@@ -1,5 +1,5 @@
-#Project Title: Zomato-EDA-Model
-#Overview
+# Project Title: Zomato-EDA-Model
+# Overview
 The project involves analyzing Zomato's restaurant data to uncover insights into customer behavior, preferences, and industry trends. The dataset includes information such as restaurant names, locations, cuisines, ratings, and more.
 
 # Methodology
